@@ -8,8 +8,8 @@ I am a passionate developer with skills in various technologies, including:
 - **CSS**
 - **React**
 - **C#**
-- **Dart (excluding Flutter)**
-- **SQL (beginner)**
+- **Dart**
+- **SQL**
 
 I love exploring new technologies and building impactful projects. Currently, I'm focused on enhancing my skills and contributing to open-source projects.
 
