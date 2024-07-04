@@ -25,10 +25,10 @@ I love exploring new technologies and building impactful projects. Currently, I'
 
 ### Frameworks & Libraries:
 
-####Front-end:
+**Front-end**
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
-####Back-end:
+**Back-end**
 - ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 - ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 
