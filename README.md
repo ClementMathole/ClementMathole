@@ -1,17 +1,15 @@
-# Hello, I'm Clement Mathole! 👋
-
 ## About Me
 
-I am a passionate developer with skills in various technologies, including:
+I'm an aspiring dev with skills in various technologies, including:
 
-- !HTML5
+- **HTML5**
 - **CSS**
 - **React**
 - **C#**
 - **Dart**
 - **SQL**
 
-I love exploring new technologies and building impactful projects. Currently, I'm focused on enhancing my skills and contributing to open-source projects.
+I'm always eager to learn new technologies and improve my skills.
 
 ## Technologies & Tools
 
@@ -24,25 +22,30 @@ I love exploring new technologies and building impactful projects. Currently, I'
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 ### Frameworks & Libraries:
-
-**Front-end**
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-
-**Back-end**
 - ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 - ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
+
+### Currently learning
+- !ASP.NET Core Web (MVC)-512BD4?style=flat&logo=.net&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### Content Management Systems
+- ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
 
 ### Tools:
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 ## Projects
 
 ### My Repository
 
-- **[DatabaseApplication](https://github.com/ClementMathole/databaseapplication)**: This is a simple C# console application that demonstrates basic CRUD(Create, Read, Update, Delete) operations using EntityFamework Core with SQLite. The user can interact with the program via a menu driven interface.
+- **[DatabaseApplication](https://github.com/ClementMathole/databaseapplication)**: This is a simple C# console application that demonstrates basic CRUD(Create, Read, Update, Delete) operations using EntityFramework Core with SQLite. The user can interact with the program via a menu driven interface.
 
 ## Get in Touch
 - [Email](mailto:Clementmathole003@gmail.com)
@@ -53,4 +56,4 @@ I love exploring new technologies and building impactful projects. Currently, I'
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementMathole&layout=compact&theme=radical)
 
-Thank you for visiting my profile!
+✌🏽😉
