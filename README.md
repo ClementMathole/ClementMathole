@@ -26,17 +26,17 @@ I'm always eager to learn new technologies and improve my skills.
 - ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 - ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 
-### Currently learning
-- !ASP.NET Core Web (MVC)-512BD4?style=flat&logo=.net&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+### Currently learning:
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+- ![ASP.NET Core Web MVC](https://img.shields.io/badge/ASP.NET%20Core%20Web%20MVC-512BD4?style=flat&logo=.net&logoColor=white)
 
-### Content Management Systems
-- ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)
+### Content Management Systems:
+- ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
 
 ### Tools:
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+- ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
