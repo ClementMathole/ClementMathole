@@ -50,10 +50,4 @@ I'm always eager to learn new technologies and improve my skills.
 ## Get in Touch
 - [Email](mailto:Clementmathole003@gmail.com)
 
-## Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClementMathole&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementMathole&layout=compact&theme=radical)
-
 ✌🏽😉
