@@ -1,16 +1,3 @@
-## About Me
-
-I'm an aspiring dev with skills in various technologies, including:
-
-- **HTML5**
-- **CSS**
-- **React**
-- **C#**
-- **Dart**
-- **SQL**
-
-I'm always eager to learn new technologies and improve my skills.
-
 ## Technologies & Tools
 
 ### Languages:
@@ -39,15 +26,7 @@ I'm always eager to learn new technologies and improve my skills.
 - ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
-## Projects
-
-### My Repository
-
-- **[DatabaseApplication](https://github.com/ClementMathole/databaseapplication)**: This is a simple C# console application that demonstrates basic CRUD(Create, Read, Update, Delete) operations using EntityFramework Core with SQLite. The user can interact with the program via a menu driven interface.
-
+  
 ## Get in Touch
 - [Email](mailto:Clementmathole003@gmail.com)
-
 ✌🏽😉
