@@ -15,7 +15,7 @@
 
 ### Currently learning:
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-- ![ASP.NET Core Web MVC](https://img.shields.io/badge/ASP.NET%20Core%20Web%20MVC-512BD4?style=flat&logo=.net&logoColor=white)
+- ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20Web%20MVC-512BD4?style=flat&logo=.net&logoColor=white)
 
 ### Content Management Systems:
 - ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white)
