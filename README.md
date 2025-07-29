@@ -8,8 +8,6 @@
 ### Frameworks & Libraries:
 - ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
 - ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=.net&logoColor=white)
-
-### Currently learning:
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 - ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20Web%20MVC-512BD4?style=flat&logo=.net&logoColor=white)
 
